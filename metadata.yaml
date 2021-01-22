@@ -1,11 +1,16 @@
 _repo: Leivan-ja-seikkailun-haussa-Hamalaisen-mokinpojan-tarina_64276
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Koskelainen, Aatu
     gutenberg_agent_id: '52831'
     url: http://www.gutenberg.org/2009/agents/52831
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64276#Leivan-ja-seikkailun-haussa-Hamalaisen-mokinpojan-tarina
 gutenberg_issued: '2021-01-12'
 gutenberg_type: Text
 identifiers:
